@@ -106,7 +106,7 @@ automates monitoring process, manages git operations, sends notifications
 - configure necessary params like email address, git repo URL, paths
 - trigger pipeline manually or set it up to run at scheduled intervals
 example:
-```csharp
+```scss
 [Pipeline] stage
 [Pipeline] { (Setup and Update Repos)
 Cloning into 'scripts'...
