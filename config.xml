@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Tests>
+  <!-- config settings -->
+  <Configuration>
+    <!-- replace with your config settings -->
+  </Configuration>
+
+  <!-- database configs -->
+  <Databases>
+    <!-- replace with your db configs -->
+  </Databases>
+
+  <!-- host configs -->
+  <Hosts>
+    <!-- replace with your host configs -->
+  </Hosts>
+</Tests>
